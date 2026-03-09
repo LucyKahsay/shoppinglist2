@@ -1,10 +1,12 @@
-mandazi 
-apples
-french fries
-meat balls
-popcorns
-ringoz
-cupcake
-yoghurt
-chevda
+pan 
+spoon
+fork
+kitche cabinet
+washing powder
+knife
+stove 
+glass
+cup
+plate
+
 
