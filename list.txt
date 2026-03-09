@@ -9,4 +9,8 @@ glass
 cup
 plate
 
-
+soap
+omo
+water
+vim
+dettol
