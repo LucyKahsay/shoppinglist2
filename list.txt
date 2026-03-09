@@ -14,3 +14,9 @@ omo
 water
 vim
 dettol
+movies
+board games 
+play station
+headshots
+guitar
+beers
