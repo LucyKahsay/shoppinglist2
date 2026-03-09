@@ -9,4 +9,7 @@ glass
 cup
 plate
 
-
+mandazi
+apples
+yoghurt
+chips
