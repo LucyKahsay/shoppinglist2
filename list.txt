@@ -16,4 +16,7 @@ vim
 dettol
 short 
 tops
-skirts
+
+concealer
+eyeliner
+foundation
